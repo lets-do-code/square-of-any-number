@@ -1,0 +1,25 @@
+//WAP to get square of two numbers
+
+#include<iostream>
+
+#include<cmath>
+
+using namespace std;
+
+int main()
+
+{
+
+int n;
+
+cin>>n;
+
+int square;
+
+square=n*n;
+
+cout<<"Square of the num:\n"<<square<<endl;
+
+return 0;
+
+}
